@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/otariidae/hatena-blog-dev-trending-feed</id>
+    <title>はてなブログ企業技術ブログTrending</title>
+    <updated>2026-11-21T11:54:57.217Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/otariidae/hatena-blog-dev-trending-feed"/>
+    <subtitle>はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード</subtitle>
+    <entry>
+        <title type="html"><![CDATA[AIエージェントを騙す：一見安全だが危険なGitHubリポジトリをAIエージェントにセットアップさせてみた（インターンシップ体験記）]]></title>
+        <id>https://engineers.ntt.com/entry/202610-offsec-intern/entry</id>
+        <link href="https://engineers.ntt.com/entry/202610-offsec-intern/entry"/>
+        <updated>2026-11-20T15:00:00.000Z</updated>
+        <author>
+            <name>エヌ・ティ・ティ・コミュニケーションズ株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[はてなエンジニアの自作RSSリーダーをご紹介します 2026]]></title>
+        <id>https://developer.hatenastaff.com/entry/2026/11/20/162322</id>
+        <link href="https://developer.hatenastaff.com/entry/2026/11/20/162322"/>
+        <updated>2026-11-20T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社はてな</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaigi on Rails 2026 のアンドパッドブースのアンケート結果まとめ]]></title>
+        <id>https://tech.andpad.co.jp/entry/2026/11/20/100000</id>
+        <link href="https://tech.andpad.co.jp/entry/2026/11/20/100000"/>
+        <updated>2026-11-19T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社アンドパッド</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[内製 Background Agent "haro" を "haro" の中で開発しターミナルを捨てる]]></title>
+        <id>https://tech.layerx.co.jp/entry/haro-in-haro</id>
+        <link href="https://tech.layerx.co.jp/entry/haro-in-haro"/>
+        <updated>2026-11-19T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社LayerX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WindowsネイティブアプリのE2Eテスト基盤を整える]]></title>
+        <id>https://kakehashi-dev.hatenablog.com/entry/2026/11/20/090000</id>
+        <link href="https://kakehashi-dev.hatenablog.com/entry/2026/11/20/090000"/>
+        <updated>2026-11-19T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社カケハシ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PR が1年で5倍になった monorepo で、フロントエンドの基盤をつくる — バクラク Frontend Enabling を募集しています]]></title>
+        <id>https://tech.layerx.co.jp/entry/bakuraku-monorepo-and-frontend-enabling</id>
+        <link href="https://tech.layerx.co.jp/entry/bakuraku-monorepo-and-frontend-enabling"/>
+        <updated>2026-11-18T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社LayerX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AndroidでもPDFの書類をアプリ内で見れるようにした話 〜主に排他制御について〜 ]]></title>
+        <id>https://tech.timee.co.jp/entry/android_pdf_viewer</id>
+        <link href="https://tech.timee.co.jp/entry/android_pdf_viewer"/>
+        <updated>2026-11-18T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社タイミー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent Optimizerを使ってHosted Agentを最適化する]]></title>
+        <id>https://acro-engineer.hatenablog.com/entry/2026/11/18/120000</id>
+        <link href="https://acro-engineer.hatenablog.com/entry/2026/11/18/120000"/>
+        <updated>2026-11-17T15:00:00.000Z</updated>
+        <author>
+            <name>アクロクエストテクノロジー株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なぜヘンリーのE2Eリポジトリは整理されないまま膨らみ続けたのか。 AIで加速した開発とガードレール]]></title>
+        <id>https://dev.henry.jp/entry/e2e-repository</id>
+        <link href="https://dev.henry.jp/entry/e2e-repository"/>
+        <updated>2026-11-17T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ヘンリー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[個人情報が流された時にできること]]></title>
+        <id>https://tech.kentem.jp/entry/2026/11/18/090000</id>
+        <link href="https://tech.kentem.jp/entry/2026/11/18/090000"/>
+        <updated>2026-11-17T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社建設システム</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[転ばぬ先の杖としての差分テスト ― 本番相当データで新旧バッチを突き合わせた話]]></title>
+        <id>https://creators.oisix.co.jp/entry/2026/11/17/165651</id>
+        <link href="https://creators.oisix.co.jp/entry/2026/11/17/165651"/>
+        <updated>2026-11-17T15:00:00.000Z</updated>
+        <author>
+            <name>オイシックス株式会社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[内製 Background Agent “haro”に アラート対応を任せたら 回すたびに賢くなっていった]]></title>
+        <id>https://tech.layerx.co.jp/entry/haro-alert-loop</id>
+        <link href="https://tech.layerx.co.jp/entry/haro-alert-loop"/>
+        <updated>2026-11-16T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社LayerX</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIを活用したPerlのGo移植（テスト編）]]></title>
+        <id>https://tech.mirrativ.stream/entry/2026/11/17/100000</id>
+        <link href="https://tech.mirrativ.stream/entry/2026/11/17/100000"/>
+        <updated>2026-11-16T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ミラティブ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HerokuからGCPへの移行で見つかった不具合]]></title>
+        <id>https://tech.kickflow.co.jp/entry/2026/11/13/163726</id>
+        <link href="https://tech.kickflow.co.jp/entry/2026/11/13/163726"/>
+        <updated>2026-11-13T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社kickflow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サービスアカウントの権限借用で、カスタムロールを検証する]]></title>
+        <id>https://tech.kickflow.co.jp/entry/2026/11/12/144654</id>
+        <link href="https://tech.kickflow.co.jp/entry/2026/11/12/144654"/>
+        <updated>2026-11-11T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社kickflow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[内製のChrome拡張機能をChromeウェブストアから社内に配布する]]></title>
+        <id>https://tech.kickflow.co.jp/entry/2026/11/11/182411</id>
+        <link href="https://tech.kickflow.co.jp/entry/2026/11/11/182411"/>
+        <updated>2026-11-11T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社kickflow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaigi on Rails 2026 で学んだ「操作を見出す」設計で、実務の fat model をリファクタした話 #kaigionrails]]></title>
+        <id>https://tech.speee.jp/entry/2026/11/09/142755</id>
+        <link href="https://tech.speee.jp/entry/2026/11/09/142755"/>
+        <updated>2026-11-08T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社Speee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIペネトレーションテストツール「ARTEX」の仕組みを知る]]></title>
+        <id>https://devblog.lac.co.jp/entry/20261105</id>
+        <link href="https://devblog.lac.co.jp/entry/20261105"/>
+        <updated>2026-11-04T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社ラック</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIにQAの判断を任せる：AIによるトリアージ精度を2倍にするQAコンテキスト設計]]></title>
+        <id>https://tech-blog.tabelog.com/entry/connecting-qa-data-for-ai-driven-test-repair</id>
+        <link href="https://tech-blog.tabelog.com/entry/connecting-qa-data-for-ai-driven-test-repair"/>
+        <updated>2026-11-03T15:00:00.000Z</updated>
+        <author>
+            <name>株式会社カカクコム</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP 8.5.12の緊急リリースにpixivはどう対応したか]]></title>
+        <id>https://inside.pixiv.blog/2026/10/22/193321</id>
+        <link href="https://inside.pixiv.blog/2026/10/22/193321"/>
+        <updated>2026-10-22T15:00:00.000Z</updated>
+        <author>
+            <name>ピクシブ株式会社</name>
+        </author>
+    </entry>
+</feed>

@@ -1,0 +1,201 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "はてなブログ企業技術ブログTrending",
+    "home_page_url": "https://github.com/otariidae/hatena-blog-dev-trending-feed",
+    "description": "はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード",
+    "items": [
+        {
+            "id": "https://engineers.ntt.com/entry/202610-offsec-intern/entry",
+            "url": "https://engineers.ntt.com/entry/202610-offsec-intern/entry",
+            "title": "AIエージェントを騙す：一見安全だが危険なGitHubリポジトリをAIエージェントにセットアップさせてみた（インターンシップ体験記）",
+            "date_modified": "2026-11-20T15:00:00.000Z",
+            "author": {
+                "name": "エヌ・ティ・ティ・コミュニケーションズ株式会社"
+            }
+        },
+        {
+            "id": "https://developer.hatenastaff.com/entry/2026/11/20/162322",
+            "url": "https://developer.hatenastaff.com/entry/2026/11/20/162322",
+            "title": "はてなエンジニアの自作RSSリーダーをご紹介します 2026",
+            "date_modified": "2026-11-20T15:00:00.000Z",
+            "author": {
+                "name": "株式会社はてな"
+            }
+        },
+        {
+            "id": "https://tech.andpad.co.jp/entry/2026/11/20/100000",
+            "url": "https://tech.andpad.co.jp/entry/2026/11/20/100000",
+            "title": "Kaigi on Rails 2026 のアンドパッドブースのアンケート結果まとめ",
+            "image": "https://cdn.image.st-hatena.com/image/scale/86ae7d7a889a93c93258126cbfaaf881bc6c9067/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Foct88%2F20261119%2F20261119140048.png",
+            "date_modified": "2026-11-19T15:00:00.000Z",
+            "author": {
+                "name": "株式会社アンドパッド"
+            }
+        },
+        {
+            "id": "https://tech.layerx.co.jp/entry/haro-in-haro",
+            "url": "https://tech.layerx.co.jp/entry/haro-in-haro",
+            "title": "内製 Background Agent \"haro\" を \"haro\" の中で開発しターミナルを捨てる",
+            "image": "https://cdn.image.st-hatena.com/image/scale/d334b6c1796d501efb9b456bb2f498c45500c133/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsivchari%2F20261119%2F20261119164059.png",
+            "date_modified": "2026-11-19T15:00:00.000Z",
+            "author": {
+                "name": "株式会社LayerX"
+            }
+        },
+        {
+            "id": "https://kakehashi-dev.hatenablog.com/entry/2026/11/20/090000",
+            "url": "https://kakehashi-dev.hatenablog.com/entry/2026/11/20/090000",
+            "title": "WindowsネイティブアプリのE2Eテスト基盤を整える",
+            "date_modified": "2026-11-19T15:00:00.000Z",
+            "author": {
+                "name": "株式会社カケハシ"
+            }
+        },
+        {
+            "id": "https://tech.layerx.co.jp/entry/bakuraku-monorepo-and-frontend-enabling",
+            "url": "https://tech.layerx.co.jp/entry/bakuraku-monorepo-and-frontend-enabling",
+            "title": "PR が1年で5倍になった monorepo で、フロントエンドの基盤をつくる — バクラク Frontend Enabling を募集しています",
+            "image": "https://cdn.image.st-hatena.com/image/scale/924887134e24f71d4761a431640666c24749930e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyuya_presto%2F20261119%2F20261119070850.png",
+            "date_modified": "2026-11-18T15:00:00.000Z",
+            "author": {
+                "name": "株式会社LayerX"
+            }
+        },
+        {
+            "id": "https://tech.timee.co.jp/entry/android_pdf_viewer",
+            "url": "https://tech.timee.co.jp/entry/android_pdf_viewer",
+            "title": "AndroidでもPDFの書類をアプリ内で見れるようにした話 〜主に排他制御について〜 ",
+            "image": "https://cdn.image.st-hatena.com/image/scale/65b0ad2c9a7c461bec25b3af8cca0f58d93c3d55/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155704439%2F158718819466986",
+            "date_modified": "2026-11-18T15:00:00.000Z",
+            "author": {
+                "name": "株式会社タイミー"
+            }
+        },
+        {
+            "id": "https://acro-engineer.hatenablog.com/entry/2026/11/18/120000",
+            "url": "https://acro-engineer.hatenablog.com/entry/2026/11/18/120000",
+            "title": "Agent Optimizerを使ってHosted Agentを最適化する",
+            "image": "https://cdn.image.st-hatena.com/image/scale/ec53ec684d9065a10ad58a4f991cc90024b4c06a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Facro-iizumi%2F20261018%2F20261018201146.png",
+            "date_modified": "2026-11-17T15:00:00.000Z",
+            "author": {
+                "name": "アクロクエストテクノロジー株式会社"
+            }
+        },
+        {
+            "id": "https://dev.henry.jp/entry/e2e-repository",
+            "url": "https://dev.henry.jp/entry/e2e-repository",
+            "title": "なぜヘンリーのE2Eリポジトリは整理されないまま膨らみ続けたのか。 AIで加速した開発とガードレール",
+            "date_modified": "2026-11-17T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ヘンリー"
+            }
+        },
+        {
+            "id": "https://tech.kentem.jp/entry/2026/11/18/090000",
+            "url": "https://tech.kentem.jp/entry/2026/11/18/090000",
+            "title": "個人情報が流された時にできること",
+            "image": "https://cdn.image.st-hatena.com/image/scale/78d8a9d597682bdae4332344ac39ec44ea6e5159/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkentem_dev_na-oyama%2F20261021%2F20261021152905.png",
+            "date_modified": "2026-11-17T15:00:00.000Z",
+            "author": {
+                "name": "株式会社建設システム"
+            }
+        },
+        {
+            "id": "https://creators.oisix.co.jp/entry/2026/11/17/165651",
+            "url": "https://creators.oisix.co.jp/entry/2026/11/17/165651",
+            "title": "転ばぬ先の杖としての差分テスト ― 本番相当データで新旧バッチを突き合わせた話",
+            "date_modified": "2026-11-17T15:00:00.000Z",
+            "author": {
+                "name": "オイシックス株式会社"
+            }
+        },
+        {
+            "id": "https://tech.layerx.co.jp/entry/haro-alert-loop",
+            "url": "https://tech.layerx.co.jp/entry/haro-alert-loop",
+            "title": "内製 Background Agent “haro”に アラート対応を任せたら 回すたびに賢くなっていった",
+            "image": "https://cdn.image.st-hatena.com/image/scale/ea014f2c543d239ac29667ba85b088f13c7b39d3/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkazu004%2F20261116%2F20261116235253.png",
+            "date_modified": "2026-11-16T15:00:00.000Z",
+            "author": {
+                "name": "株式会社LayerX"
+            }
+        },
+        {
+            "id": "https://tech.mirrativ.stream/entry/2026/11/17/100000",
+            "url": "https://tech.mirrativ.stream/entry/2026/11/17/100000",
+            "title": "AIを活用したPerlのGo移植（テスト編）",
+            "image": "https://cdn.image.st-hatena.com/image/scale/e1bbb342213256c6bf03009258cbd6e85650ce89/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnoi-onl%2F20261105%2F20261105100325.png",
+            "date_modified": "2026-11-16T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ミラティブ"
+            }
+        },
+        {
+            "id": "https://tech.kickflow.co.jp/entry/2026/11/13/163726",
+            "url": "https://tech.kickflow.co.jp/entry/2026/11/13/163726",
+            "title": "HerokuからGCPへの移行で見つかった不具合",
+            "image": "https://cdn.image.st-hatena.com/image/scale/801a4e8536f44a3360dbfc63b523a4e779694d71/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkickflow%2F20261111%2F20261111185049.png",
+            "date_modified": "2026-11-13T15:00:00.000Z",
+            "author": {
+                "name": "株式会社kickflow"
+            }
+        },
+        {
+            "id": "https://tech.kickflow.co.jp/entry/2026/11/12/144654",
+            "url": "https://tech.kickflow.co.jp/entry/2026/11/12/144654",
+            "title": "サービスアカウントの権限借用で、カスタムロールを検証する",
+            "date_modified": "2026-11-11T15:00:00.000Z",
+            "author": {
+                "name": "株式会社kickflow"
+            }
+        },
+        {
+            "id": "https://tech.kickflow.co.jp/entry/2026/11/11/182411",
+            "url": "https://tech.kickflow.co.jp/entry/2026/11/11/182411",
+            "title": "内製のChrome拡張機能をChromeウェブストアから社内に配布する",
+            "image": "https://cdn.image.st-hatena.com/image/scale/518c0075de2790262538bcb114405651db18724d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkickflow%2F20261111%2F20261111182155.png",
+            "date_modified": "2026-11-11T15:00:00.000Z",
+            "author": {
+                "name": "株式会社kickflow"
+            }
+        },
+        {
+            "id": "https://tech.speee.jp/entry/2026/11/09/142755",
+            "url": "https://tech.speee.jp/entry/2026/11/09/142755",
+            "title": "Kaigi on Rails 2026 で学んだ「操作を見出す」設計で、実務の fat model をリファクタした話 #kaigionrails",
+            "date_modified": "2026-11-08T15:00:00.000Z",
+            "author": {
+                "name": "株式会社Speee"
+            }
+        },
+        {
+            "id": "https://devblog.lac.co.jp/entry/20261105",
+            "url": "https://devblog.lac.co.jp/entry/20261105",
+            "title": "AIペネトレーションテストツール「ARTEX」の仕組みを知る",
+            "image": "https://cdn.image.st-hatena.com/image/scale/3888bfe7b079b63f2ee28e514b9c41e263b9cd83/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fl%2Flac_devblog%2F20261104%2F20261104161540.png",
+            "date_modified": "2026-11-04T15:00:00.000Z",
+            "author": {
+                "name": "株式会社ラック"
+            }
+        },
+        {
+            "id": "https://tech-blog.tabelog.com/entry/connecting-qa-data-for-ai-driven-test-repair",
+            "url": "https://tech-blog.tabelog.com/entry/connecting-qa-data-for-ai-driven-test-repair",
+            "title": "AIにQAの判断を任せる：AIによるトリアージ精度を2倍にするQAコンテキスト設計",
+            "image": "https://cdn.image.st-hatena.com/image/scale/e5b3bfb550306c6b1413489da9fd624059b917eb/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftabelog_tech_blog%2F20261102%2F20261102171801.jpg",
+            "date_modified": "2026-11-03T15:00:00.000Z",
+            "author": {
+                "name": "株式会社カカクコム"
+            }
+        },
+        {
+            "id": "https://inside.pixiv.blog/2026/10/22/193321",
+            "url": "https://inside.pixiv.blog/2026/10/22/193321",
+            "title": "PHP 8.5.12の緊急リリースにpixivはどう対応したか",
+            "image": "https://cdn.image.st-hatena.com/image/scale/ea7d3da1fcb0035a8b8d18d309d673f10384f88c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fp%2Fpxvpxv%2F20261022%2F20261022182502.png",
+            "date_modified": "2026-10-22T15:00:00.000Z",
+            "author": {
+                "name": "ピクシブ株式会社"
+            }
+        }
+    ]
+}

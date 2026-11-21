@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>はてなブログ企業技術ブログTrending</title>
+        <link>https://github.com/otariidae/hatena-blog-dev-trending-feed</link>
+        <description>はてなブログの企業技術ブログ（https://hatena.blog/dev）のTrendingの非公式フィード</description>
+        <lastBuildDate>Sat, 21 Nov 2026 11:54:57 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ja</language>
+        <item>
+            <title><![CDATA[AIエージェントを騙す：一見安全だが危険なGitHubリポジトリをAIエージェントにセットアップさせてみた（インターンシップ体験記）]]></title>
+            <link>https://engineers.ntt.com/entry/202610-offsec-intern/entry</link>
+            <guid>https://engineers.ntt.com/entry/202610-offsec-intern/entry</guid>
+            <pubDate>Fri, 20 Nov 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[はてなエンジニアの自作RSSリーダーをご紹介します 2026]]></title>
+            <link>https://developer.hatenastaff.com/entry/2026/11/20/162322</link>
+            <guid>https://developer.hatenastaff.com/entry/2026/11/20/162322</guid>
+            <pubDate>Fri, 20 Nov 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kaigi on Rails 2026 のアンドパッドブースのアンケート結果まとめ]]></title>
+            <link>https://tech.andpad.co.jp/entry/2026/11/20/100000</link>
+            <guid>https://tech.andpad.co.jp/entry/2026/11/20/100000</guid>
+            <pubDate>Thu, 19 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/86ae7d7a889a93c93258126cbfaaf881bc6c9067/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Foct88%2F20261119%2F20261119140048.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[内製 Background Agent "haro" を "haro" の中で開発しターミナルを捨てる]]></title>
+            <link>https://tech.layerx.co.jp/entry/haro-in-haro</link>
+            <guid>https://tech.layerx.co.jp/entry/haro-in-haro</guid>
+            <pubDate>Thu, 19 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/d334b6c1796d501efb9b456bb2f498c45500c133/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsivchari%2F20261119%2F20261119164059.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WindowsネイティブアプリのE2Eテスト基盤を整える]]></title>
+            <link>https://kakehashi-dev.hatenablog.com/entry/2026/11/20/090000</link>
+            <guid>https://kakehashi-dev.hatenablog.com/entry/2026/11/20/090000</guid>
+            <pubDate>Thu, 19 Nov 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PR が1年で5倍になった monorepo で、フロントエンドの基盤をつくる — バクラク Frontend Enabling を募集しています]]></title>
+            <link>https://tech.layerx.co.jp/entry/bakuraku-monorepo-and-frontend-enabling</link>
+            <guid>https://tech.layerx.co.jp/entry/bakuraku-monorepo-and-frontend-enabling</guid>
+            <pubDate>Wed, 18 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/924887134e24f71d4761a431640666c24749930e/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyuya_presto%2F20261119%2F20261119070850.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AndroidでもPDFの書類をアプリ内で見れるようにした話 〜主に排他制御について〜 ]]></title>
+            <link>https://tech.timee.co.jp/entry/android_pdf_viewer</link>
+            <guid>https://tech.timee.co.jp/entry/android_pdf_viewer</guid>
+            <pubDate>Wed, 18 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/65b0ad2c9a7c461bec25b3af8cca0f58d93c3d55/height=144;version=1;width=224/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F155704439%2F158718819466986" length="0" type="image/com%2Fdefault_entry_og_image%2F155704439%2F158718819466986"/>
+        </item>
+        <item>
+            <title><![CDATA[Agent Optimizerを使ってHosted Agentを最適化する]]></title>
+            <link>https://acro-engineer.hatenablog.com/entry/2026/11/18/120000</link>
+            <guid>https://acro-engineer.hatenablog.com/entry/2026/11/18/120000</guid>
+            <pubDate>Tue, 17 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/ec53ec684d9065a10ad58a4f991cc90024b4c06a/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fa%2Facro-iizumi%2F20261018%2F20261018201146.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[なぜヘンリーのE2Eリポジトリは整理されないまま膨らみ続けたのか。 AIで加速した開発とガードレール]]></title>
+            <link>https://dev.henry.jp/entry/e2e-repository</link>
+            <guid>https://dev.henry.jp/entry/e2e-repository</guid>
+            <pubDate>Tue, 17 Nov 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[個人情報が流された時にできること]]></title>
+            <link>https://tech.kentem.jp/entry/2026/11/18/090000</link>
+            <guid>https://tech.kentem.jp/entry/2026/11/18/090000</guid>
+            <pubDate>Tue, 17 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/78d8a9d597682bdae4332344ac39ec44ea6e5159/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkentem_dev_na-oyama%2F20261021%2F20261021152905.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[転ばぬ先の杖としての差分テスト ― 本番相当データで新旧バッチを突き合わせた話]]></title>
+            <link>https://creators.oisix.co.jp/entry/2026/11/17/165651</link>
+            <guid>https://creators.oisix.co.jp/entry/2026/11/17/165651</guid>
+            <pubDate>Tue, 17 Nov 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[内製 Background Agent “haro”に アラート対応を任せたら 回すたびに賢くなっていった]]></title>
+            <link>https://tech.layerx.co.jp/entry/haro-alert-loop</link>
+            <guid>https://tech.layerx.co.jp/entry/haro-alert-loop</guid>
+            <pubDate>Mon, 16 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/ea014f2c543d239ac29667ba85b088f13c7b39d3/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkazu004%2F20261116%2F20261116235253.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AIを活用したPerlのGo移植（テスト編）]]></title>
+            <link>https://tech.mirrativ.stream/entry/2026/11/17/100000</link>
+            <guid>https://tech.mirrativ.stream/entry/2026/11/17/100000</guid>
+            <pubDate>Mon, 16 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/e1bbb342213256c6bf03009258cbd6e85650ce89/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnoi-onl%2F20261105%2F20261105100325.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[HerokuからGCPへの移行で見つかった不具合]]></title>
+            <link>https://tech.kickflow.co.jp/entry/2026/11/13/163726</link>
+            <guid>https://tech.kickflow.co.jp/entry/2026/11/13/163726</guid>
+            <pubDate>Fri, 13 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/801a4e8536f44a3360dbfc63b523a4e779694d71/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkickflow%2F20261111%2F20261111185049.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[サービスアカウントの権限借用で、カスタムロールを検証する]]></title>
+            <link>https://tech.kickflow.co.jp/entry/2026/11/12/144654</link>
+            <guid>https://tech.kickflow.co.jp/entry/2026/11/12/144654</guid>
+            <pubDate>Wed, 11 Nov 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[内製のChrome拡張機能をChromeウェブストアから社内に配布する]]></title>
+            <link>https://tech.kickflow.co.jp/entry/2026/11/11/182411</link>
+            <guid>https://tech.kickflow.co.jp/entry/2026/11/11/182411</guid>
+            <pubDate>Wed, 11 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/518c0075de2790262538bcb114405651db18724d/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkickflow%2F20261111%2F20261111182155.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Kaigi on Rails 2026 で学んだ「操作を見出す」設計で、実務の fat model をリファクタした話 #kaigionrails]]></title>
+            <link>https://tech.speee.jp/entry/2026/11/09/142755</link>
+            <guid>https://tech.speee.jp/entry/2026/11/09/142755</guid>
+            <pubDate>Sun, 08 Nov 2026 15:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIペネトレーションテストツール「ARTEX」の仕組みを知る]]></title>
+            <link>https://devblog.lac.co.jp/entry/20261105</link>
+            <guid>https://devblog.lac.co.jp/entry/20261105</guid>
+            <pubDate>Wed, 04 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/3888bfe7b079b63f2ee28e514b9c41e263b9cd83/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fl%2Flac_devblog%2F20261104%2F20261104161540.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[AIにQAの判断を任せる：AIによるトリアージ精度を2倍にするQAコンテキスト設計]]></title>
+            <link>https://tech-blog.tabelog.com/entry/connecting-qa-data-for-ai-driven-test-repair</link>
+            <guid>https://tech-blog.tabelog.com/entry/connecting-qa-data-for-ai-driven-test-repair</guid>
+            <pubDate>Tue, 03 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/e5b3bfb550306c6b1413489da9fd624059b917eb/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftabelog_tech_blog%2F20261102%2F20261102171801.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PHP 8.5.12の緊急リリースにpixivはどう対応したか]]></title>
+            <link>https://inside.pixiv.blog/2026/10/22/193321</link>
+            <guid>https://inside.pixiv.blog/2026/10/22/193321</guid>
+            <pubDate>Thu, 22 Oct 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cdn.image.st-hatena.com/image/scale/ea7d3da1fcb0035a8b8d18d309d673f10384f88c/height=144;version=1;width=224/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fp%2Fpxvpxv%2F20261022%2F20261022182502.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
