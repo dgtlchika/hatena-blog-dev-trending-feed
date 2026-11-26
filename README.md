@@ -1,3 +1,5 @@
+> このフォークについて：デジタル地下室（note: sumaho_lab）が自前環境で使うためのフォークです。上流は otariidae/hatena-blog-dev-trending-feed（https://github.com/otariidae/hatena-blog-dev-trending-feed）です。
+
 # はてなブログ企業技術ブログTrendingフィード
 
 [はてなブログの企業技術ブログ](https://hatena.blog/dev)のTrendingの非公式フィード
